@@ -1,0 +1,24 @@
+{
+  "name": "oropo",
+  "version": "1.0.0",
+  "description": "oropo discord bot",
+  "main": "Oropo.js",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jujulodace/Oropo-discord-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jujulodace/Oropo-discord-bot/issues"
+  },
+  "homepage": "https://github.com/jujulodace/Oropo-discord-bot#readme"
+}
